@@ -11,8 +11,7 @@ Estou em fase de construção de portfólio, aplicando na prática o que aprendo
 [![](https://skillicons.dev/icons?i=python,aws,docker,git,github,linux,postgres,md)](https://skillicons.dev)
 
 <!-- Troque os links abaixo pelos seus perfis reais -->
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-LINK-AQUI/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandroluizmello/)
 
 ---
 
