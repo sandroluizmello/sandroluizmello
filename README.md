@@ -9,11 +9,14 @@ Estudo e pratico arquiteturas modernas de dados (Medallion — Bronze, Silver, G
 Estou em fase de construção de portfólio, aplicando na prática o que aprendo: ingestão, transformação e organização de dados em ambientes que simulam produção.
 
 <div align="center">
+
 [![](https://skillicons.dev/icons?i=python,aws,docker,git,github,linux,postgres,md)](https://skillicons.dev)
 
 <!-- Troque os links abaixo pelos seus perfis reais -->
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandroluizmello/)
+
 </div>
+
 ---
 
 #### 🚀 Projeto em Destaque
