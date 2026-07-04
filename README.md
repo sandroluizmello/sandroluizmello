@@ -1,16 +1,39 @@
-## Hi there 👋
+### 👋 Olá! Eu sou o SANDRO
 
-<!--
-**sandroluizmello/sandroluizmello** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 👨‍💻 Sobre Mim
 
-Here are some ideas to get you started:
+Sou Sandro Luiz Mello, estudante de Engenharia de Dados, com foco em construir pipelines de dados robustos e escaláveis do zero.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estudo e pratico arquiteturas modernas de dados (Medallion — Bronze, Silver, Gold), trabalhando com **Python, PySpark, Airflow, MinIO/S3** e conceitos de data lake, orquestração e qualidade de dados.
+
+Estou em fase de construção de portfólio, aplicando na prática o que aprendo: ingestão, transformação e organização de dados em ambientes que simulam produção.
+
+[![](https://skillicons.dev/icons?i=python,aws,docker,git,github,linux,postgres,md)](https://skillicons.dev)
+
+<!-- Troque os links abaixo pelos seus perfis reais -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU-LINK-AQUI/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/SEU-LINK-AQUI/)
+
+---
+
+#### 🚀 Projeto em Destaque
+
+**[brazilian-ecommerce-data-lake](https://github.com/sandroluizmello/brazilian-ecommerce-data-lake)**
+Pipeline de Engenharia de Dados completo utilizando PySpark, Airflow e MinIO (S3), implementando arquitetura Medallion (Bronze, Silver e Gold) em um ambiente semelhante ao de produção.
+
+---
+
+#### 🛠️ Tecnologias e Ferramentas
+
+- **Linguagens:** Python
+- **Processamento:** PySpark
+- **Orquestração:** Airflow
+- **Armazenamento:** MinIO (S3), Data Lake
+- **Infra:** Docker
+- **Versionamento:** Git & GitHub
+
+---
+
+#### 📈 Objetivo Atual
+
+Aprofundar conhecimentos em modelagem de dados, dbt, cloud (AWS/GCP) e boas práticas de qualidade e governança de dados, construindo projetos práticos e documentados aqui no GitHub.
